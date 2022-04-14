@@ -5,16 +5,6 @@
 
 - 📫 How to reach me [@hard_paradox(telegram)](https://t.me/hard_paradox)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/alexey_kaverin" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexey_kaverin" height="30" width="40" />
-</a>
-<a href="https://vk.com/id86077278" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="vk" height="30" width="40" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -71,4 +61,12 @@
 </p>
 <div align="center" ><img src="https://www.codewars.com/users/HardParadox/badges/large"></div>
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hardparadox&show_icons=true&theme=highcontrast&border_radius=0&hide_title=true&hide_border=true&text_color=3280ed&locale=en" alt="hardparadox" /></div>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/alexey_kaverin" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexey_kaverin" height="30" width="40" />
+</a>
+<a href="https://vk.com/id86077278" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="vk" height="30" width="40" />
+</a>
+</p>
