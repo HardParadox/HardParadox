@@ -60,7 +60,7 @@
 </a>
 </p>
 <div align="center" ><img src="https://www.codewars.com/users/HardParadox/badges/large"></div>
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hardparadox&show_icons=true&theme=highcontrast&border_radius=0&hide_title=true&hide_border=true&text_color=3280ed&locale=en" alt="hardparadox" /></div>
+<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=hardparadox&show_icons=true&border_radius=0&hide_title=true&hide_border=true&locale=en" alt="hardparadox" /></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/alexey_kaverin" target="blank">
